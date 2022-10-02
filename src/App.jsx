@@ -12,50 +12,50 @@ const App = () =>  {
   const [products, setProducts] = useState([
     { 
       id:1,
-      value: "Huobi Global",
+      value: "asjdlkasdklajsdlkajskldjaslkdj",
   
     },
     {
       id:2,
-      value: "Huobi Global",
+      value: "asjdlkasdklajsdlkajskldjaslkdj",
 
     },
     {
       id:3,
-      value: "Huobi Global",
+      value: "asjdlkasdklajsdlkajskldjaslkdj",
 
     },
     {
       id:4,
-      value: "Huobi Global",
+      value: "asjdlkasdklajsdlkajskldjaslkdj",
     },
     {
       id:5,
-      value: "Huobi Global",
+      value: "asjdlkasdklajsdlkajskldjaslkdj",
     },
     {
       id:6,
-      value: 6,
+      value: "asjdlkasdklajsdlkajskldjaslkdj",
     },
     {
       id:7,
-      value: 7,
+      value: "asjdlkasdklajsdlkajskldjaslkdj",
     },
     {
       id:7,
-      value: 7,
+      value: "asjdlkasdklajsdlkajskldjaslkdj",
     },
     {
       id:8,
-      value: 8,
+      value: "asjdlkasdklajsdlkajskldjaslkdj",
     },
     {
       id:9,
-      value: 9,
+      value: "asjdlkasdklajsdlkajskldjaslkdj",
     },
     {
       id:10,
-      value: 10,
+      value: "asjdlkasdklajsdlkajskldjaslkdj",
     },
   ]);
   
